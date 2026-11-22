@@ -27,6 +27,9 @@ Pilot area: Tha Tako, Nakhon Sawan (rice, main season).
 ## My contribution
 Validated burn detection against GISTDA polygons; computed road access with OSMnx; prepared tambon income data; built the priority matrix; prepared slides and presented to mentors.
 
+## Live demo
+Dashboard: https://burnwise-dashboard-appbctyh2gj9ddbwadjall.streamlit.app/
+
 ## Team
 Team "ทีมไม่เอาควัน" (BurnWise), GeoHackathon 2026
 1. Rattanatham Saopha
