@@ -7,7 +7,7 @@ GeoHackathon 2026 "Pixel to Policy" (GISTDA) — final 12 teams.
 ## What it does
 1. Detects burn vs. no-burn signal in rice plots (Sentinel-2 dNBR, NDVI; thresholds calibrated with VIIRS hotspots)
 2. Delineates field boundaries (Fields of The World)
-3. Validates detections against GISTDA burned-area polygons
+3. Compares detections with GISTDA burned-area products (product agreement, not field validation)
 4. Builds a Green / Yellow / Red priority matrix per plot (road access via OSMnx, tambon-level income)
 
 Pilot area: Tha Tako, Nakhon Sawan (rice, main season).
